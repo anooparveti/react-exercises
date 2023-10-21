@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React learning project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anooparveti/react-exercises.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Anoop N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anooparveti/react-exercises/issues"
+  },
+  "homepage": "https://github.com/anooparveti/react-exercises#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
