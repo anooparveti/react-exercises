@@ -1,12 +1,12 @@
-name: Bug Report on  Manager Components
+name: [Internal]Bug Report on  Manager Components
 description: File a bug report on Manager components
 title: '[manager-components]: <TITLE>'
 labels: ['manager-components', 'bug']
-projects: ["octo-org/1"]
+projects: ["ovh/22"]
 body:
   - type: markdown
     attributes:
-      value: Thanks for creating an issue 😄! Please fill out this form as completely as possible.
+      value: Thanks for reporting an issue 😄! Please fill out this form with all the information you have.
   - type: input
     id: item
     attributes:
